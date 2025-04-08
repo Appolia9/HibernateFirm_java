@@ -1,0 +1,79 @@
+<project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd"  >
+  <modelVersion>4.0.0</modelVersion>
+  
+  <!-- https://mavenlibs.com/maven/dependency/org.swinglabs.swingx/swingx-all -->
+
+
+  <groupId>firm.hibernate</groupId>
+  <artifactId>HibernateFirm</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Hibernate firm</name>
+  
+  <dependencies>
+  <dependency>
+  <groupId>org.hibernate</groupId>
+  <artifactId>hibernate-core</artifactId>
+  <version>5.6.5.Final</version>
+  </dependency>
+  
+  <dependency>
+  <groupId>org.hibernate</groupId>
+  <artifactId>hibernate-entitymanager</artifactId>
+  <version>5.6.5.Final</version>
+  </dependency>
+  
+  <dependency>
+  <groupId>mysql</groupId>
+  <artifactId>mysql-connector-java</artifactId>
+  <version>5.1.48</version>
+  </dependency>
+  
+ <dependency>
+  <groupId>org.eclipse.persistence</groupId>
+  <artifactId>eclipselink</artifactId>
+  <version>2.5.0</version>
+</dependency>
+  
+  
+ <dependency>
+      <groupId>net.sf.jasperreports</groupId>
+      <artifactId>jasperreports</artifactId>
+      <version>6.12.2</version>
+    </dependency>
+
+    <dependency>
+      <groupId>xalan</groupId>
+      <artifactId>xalan</artifactId>
+      <version>2.7.2</version> 
+    </dependency>
+    
+	<dependency>
+      <groupId>net.sf.jasperreports</groupId>
+      <artifactId>jasperreports-fonts</artifactId>
+      <version>6.12.2</version>
+  </dependency>
+  
+  <dependency>
+      <groupId>jaxen</groupId>
+      <artifactId>jaxen</artifactId>
+      <version>1.2.0</version>
+  </dependency>
+  
+<dependency>
+<groupId>org.apache.logging.log4j</groupId>
+<artifactId>log4j-api</artifactId>
+<version>2.17.1</version>
+</dependency>
+
+
+ <dependency>
+    <groupId>org.swinglabs.swingx</groupId>
+    <artifactId>swingx-all</artifactId>
+    <version>1.6.5-1</version>
+</dependency>
+
+
+
+   </dependencies>
+</project>

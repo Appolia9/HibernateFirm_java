@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.12.2.final using JasperReports Library version 6.12.2-75c5e90a222ab406e416cbf590a5397028a52de3  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Blank_A4_1" pageWidth="595" pageHeight="842" whenNoDataType="NoDataSection" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="91df6e52-0d27-416c-a7e5-ef6110be2acb">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="XMLDataAdapter"/>
+	<queryString language="xPath">
+		<![CDATA[staff_persons/person]]>
+	</queryString>
+	<field name="Department" class="java.lang.String">
+		<property name="net.sf.jasperreports.xpath.field.expression" value="@Department"/>
+		<fieldDescription><![CDATA[@Department]]></fieldDescription>
+	</field>
+	<field name="Name" class="java.lang.String">
+		<property name="net.sf.jasperreports.xpath.field.expression" value="@Name"/>
+		<fieldDescription><![CDATA[@Name]]></fieldDescription>
+	</field>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="79" splitType="Stretch">
+			<staticText>
+				<reportElement x="-20" y="0" width="594" height="78" uuid="683d02b3-626a-4c4b-bf31-f489c9a004a0"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font fontName="Arial" size="20" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Report]]></text>
+			</staticText>
+		</band>
+	</title>
+	<columnHeader>
+		<band height="61" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="30" width="130" height="30" uuid="05fcbac0-7e27-43d7-a30e-8666a2041c53">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="122f417f-11eb-48d3-b322-2e5fefb60e49"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="1.0"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font fontName="Arial" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Name]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="130" y="30" width="120" height="30" uuid="1f037952-dcbd-4b13-ae0b-271cecb5524e">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="1d5475c1-e038-4112-9a82-cbd852b38f75"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="1.0"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font fontName="Arial" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Department]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="30" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="130" height="30" uuid="df70b788-5dd1-480b-9fad-9cb23b7e909f">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="122f417f-11eb-48d3-b322-2e5fefb60e49"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="1.0"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font fontName="Arial"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{Name}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="130" y="0" width="120" height="30" uuid="c5db0821-2d0c-443c-bc68-576c178d498c">
+					<property name="com.jaspersoft.studio.spreadsheet.connectionID" value="1d5475c1-e038-4112-9a82-cbd852b38f75"/>
+				</reportElement>
+				<box>
+					<pen lineWidth="1.0"/>
+				</box>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font fontName="Arial"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{Department}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<noData>
+		<band height="50"/>
+	</noData>
+</jasperReport>

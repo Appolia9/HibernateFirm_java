@@ -1,0 +1,1135 @@
+17:40:47,052  INFO main class:<init>:153 - Открытие главной экранной формы
+17:40:49,252  INFO AWT-EventQueue-0 class:actionPerformed:379 - Открытие экранной формы проектов
+17:40:49,366  INFO AWT-EventQueue-0 class:actionPerformed:383 - Закрытие главной экранной формы
+17:40:50,193  INFO AWT-EventQueue-0 class:<init>:153 - Открытие главной экранной формы
+17:40:50,324  INFO AWT-EventQueue-0 class:actionPerformed:71 - Закрытие экранной формы проектов
+17:40:51,333  INFO AWT-EventQueue-0 class:actionPerformed:391 - Открытие экранной формы клиентов
+17:40:51,461  INFO AWT-EventQueue-0 class:actionPerformed:394 - Закрытие главной экранной формы
+17:40:52,273  INFO AWT-EventQueue-0 class:<init>:153 - Открытие главной экранной формы
+17:40:52,414  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы клиентов
+17:40:53,814  INFO AWT-EventQueue-0 class:actionPerformed:284 - Открытие формы для добавления информации
+17:40:56,445 DEBUG AWT-EventQueue-0 class:actionPerformed:334 - Вызов функции проверки полей формы
+17:40:57,819  WARN AWT-EventQueue-0 class:actionPerformed:348 - Исключение: 
+firm.gui.Exception_null_pointer: Заполните все поля
+	at firm.gui.GUI.checkDepartment(GUI.java:76)
+	at firm.gui.GUI$1$1.actionPerformed(GUI.java:336)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6621)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3398)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6386)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4996)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4575)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2310)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2780)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:775)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:98)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:747)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:744)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+20:51:19,240  INFO main class:<init>:153 - Открытие главной экранной формы
+20:51:29,723  INFO AWT-EventQueue-0 class:actionPerformed:284 - Открытие формы для добавления информации
+17:56:40,998  INFO main class:<init>:151 - Открытие главной экранной формы
+18:40:42,694  INFO main class:<init>:151 - Открытие главной экранной формы
+18:43:03,133  INFO main class:<init>:151 - Открытие главной экранной формы
+18:44:44,515  INFO main class:<init>:151 - Открытие главной экранной формы
+18:45:00,126  INFO AWT-EventQueue-0 class:actionPerformed:383 - Открытие экранной формы проектов
+18:45:00,196  INFO AWT-EventQueue-0 class:actionPerformed:387 - Закрытие главной экранной формы
+18:45:01,911  INFO AWT-EventQueue-0 class:<init>:151 - Открытие главной экранной формы
+18:45:01,964  INFO AWT-EventQueue-0 class:actionPerformed:71 - Закрытие экранной формы проектов
+18:48:42,863  INFO main class:<init>:151 - Открытие главной экранной формы
+18:48:47,271  INFO AWT-EventQueue-0 class:actionPerformed:383 - Открытие экранной формы проектов
+18:48:47,301  INFO AWT-EventQueue-0 class:actionPerformed:387 - Закрытие главной экранной формы
+18:48:56,218  INFO AWT-EventQueue-0 class:<init>:151 - Открытие главной экранной формы
+18:48:56,271  INFO AWT-EventQueue-0 class:actionPerformed:71 - Закрытие экранной формы проектов
+19:11:30,813  INFO main class:<init>:151 - Открытие главной экранной формы
+19:12:55,552  INFO main class:<init>:151 - Открытие главной экранной формы
+19:13:17,137  INFO main class:<init>:151 - Открытие главной экранной формы
+19:13:20,155  INFO AWT-EventQueue-0 class:actionPerformed:39 - Открытие экранной формы проектов
+19:13:20,190  INFO AWT-EventQueue-0 class:actionPerformed:43 - Закрытие главной экранной формы
+19:15:48,023  INFO main class:<init>:151 - Открытие главной экранной формы
+19:15:50,411  INFO AWT-EventQueue-0 class:actionPerformed:39 - Открытие экранной формы проектов
+19:15:50,441  INFO AWT-EventQueue-0 class:actionPerformed:43 - Закрытие главной экранной формы
+19:16:15,362  INFO main class:<init>:151 - Открытие главной экранной формы
+19:16:20,464  INFO AWT-EventQueue-0 class:actionPerformed:51 - Открытие экранной формы клиентов
+19:16:20,506  INFO AWT-EventQueue-0 class:actionPerformed:54 - Закрытие главной экранной формы
+19:16:23,982  INFO AWT-EventQueue-0 class:<init>:151 - Открытие главной экранной формы
+19:16:24,049  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы клиентов
+19:16:25,218  INFO AWT-EventQueue-0 class:actionPerformed:39 - Открытие экранной формы проектов
+19:16:25,266  INFO AWT-EventQueue-0 class:actionPerformed:43 - Закрытие главной экранной формы
+19:16:26,565  INFO AWT-EventQueue-0 class:<init>:151 - Открытие главной экранной формы
+19:16:26,619  INFO AWT-EventQueue-0 class:actionPerformed:71 - Закрытие экранной формы проектов
+19:45:59,426  INFO main class:<init>:151 - Открытие главной экранной формы
+19:46:01,297  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+19:46:01,337  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+19:46:02,337  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+19:46:02,360  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+19:46:03,792  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+19:46:03,817  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+19:46:05,771  INFO AWT-EventQueue-0 class:actionPerformed:61 - Открытие экранной формы клиентов
+19:46:05,804  INFO AWT-EventQueue-0 class:actionPerformed:64 - Закрытие главной экранной формы
+19:46:07,705  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+19:46:07,751  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+19:46:08,666  INFO AWT-EventQueue-0 class:<init>:151 - Открытие главной экранной формы
+19:46:08,717  INFO AWT-EventQueue-0 class:actionPerformed:42 - Закрытие экранной формы проектов
+20:04:41,326  INFO main class:<init>:151 - Открытие главной экранной формы
+20:49:20,226  INFO AWT-EventQueue-0 class:actionPerformed:61 - Открытие экранной формы клиентов
+20:49:20,348  INFO AWT-EventQueue-0 class:actionPerformed:64 - Закрытие главной экранной формы
+20:58:50,132  INFO main class:<init>:151 - Открытие главной экранной формы
+21:20:27,430  INFO main class:<init>:151 - Открытие главной экранной формы
+15:47:43,318  INFO main class:<init>:153 - Открытие главной экранной формы
+15:47:47,422  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+15:47:47,523  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+15:47:54,584  INFO AWT-EventQueue-0 class:actionPerformed:61 - Открытие экранной формы клиентов
+15:47:54,645  INFO AWT-EventQueue-0 class:actionPerformed:64 - Закрытие главной экранной формы
+15:47:56,626  INFO AWT-EventQueue-0 class:<init>:153 - Открытие главной экранной формы
+15:47:56,695  INFO AWT-EventQueue-0 class:actionPerformed:64 - Закрытие экранной формы клиентов
+15:52:37,395  INFO main class:<init>:153 - Открытие главной экранной формы
+15:52:40,019  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+15:52:40,160  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+15:57:32,583  INFO main class:<init>:132 - Открытие главной экранной формы
+15:57:35,177  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+15:57:35,283  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+15:57:42,791  INFO AWT-EventQueue-0 class:<init>:132 - Открытие главной экранной формы
+15:57:42,874  INFO AWT-EventQueue-0 class:actionPerformed:68 - Закрытие экранной формы проектов
+15:57:43,892  INFO AWT-EventQueue-0 class:actionPerformed:61 - Открытие экранной формы клиентов
+15:57:43,984  INFO AWT-EventQueue-0 class:actionPerformed:64 - Закрытие главной экранной формы
+15:59:13,492  INFO main class:<init>:132 - Открытие главной экранной формы
+15:59:15,074  INFO AWT-EventQueue-0 class:actionPerformed:61 - Открытие экранной формы клиентов
+15:59:15,214  INFO AWT-EventQueue-0 class:actionPerformed:64 - Закрытие главной экранной формы
+15:59:19,033  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+15:59:19,149  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+15:59:55,667  INFO main class:<init>:132 - Открытие главной экранной формы
+15:59:57,683  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+15:59:57,850  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+16:00:30,946  INFO main class:<init>:132 - Открытие главной экранной формы
+16:00:32,873  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+16:00:33,010  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+16:58:08,829  INFO main class:<init>:132 - Открытие главной экранной формы
+17:02:55,046  INFO main class:<init>:132 - Открытие главной экранной формы
+17:06:12,852  INFO main class:<init>:132 - Открытие главной экранной формы
+17:30:00,655  INFO main class:<init>:132 - Открытие главной экранной формы
+17:53:32,034  INFO main class:<init>:132 - Открытие главной экранной формы
+17:53:43,790  INFO main class:<init>:132 - Открытие главной экранной формы
+17:55:12,827  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+17:55:12,893  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+17:55:14,977  INFO AWT-EventQueue-0 class:<init>:132 - Открытие главной экранной формы
+17:55:15,014  INFO AWT-EventQueue-0 class:actionPerformed:68 - Закрытие экранной формы проектов
+17:55:31,490  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+17:55:31,546  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+17:55:33,167  INFO AWT-EventQueue-0 class:<init>:132 - Открытие главной экранной формы
+17:55:33,215  INFO AWT-EventQueue-0 class:actionPerformed:68 - Закрытие экранной формы проектов
+17:55:50,633  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+17:55:50,691  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+17:55:52,782  INFO AWT-EventQueue-0 class:<init>:132 - Открытие главной экранной формы
+17:55:52,841  INFO AWT-EventQueue-0 class:actionPerformed:68 - Закрытие экранной формы проектов
+17:56:19,371  INFO main class:<init>:132 - Открытие главной экранной формы
+21:25:11,053  INFO main class:<init>:132 - Открытие главной экранной формы
+21:25:50,335  INFO main class:<init>:132 - Открытие главной экранной формы
+21:26:05,446  INFO main class:<init>:132 - Открытие главной экранной формы
+21:27:09,265  INFO main class:<init>:132 - Открытие главной экранной формы
+21:27:54,124  INFO main class:<init>:132 - Открытие главной экранной формы
+21:29:23,360  INFO main class:<init>:132 - Открытие главной экранной формы
+21:30:14,988  INFO main class:<init>:132 - Открытие главной экранной формы
+21:30:16,627  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+21:30:16,686  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+21:30:30,547  INFO AWT-EventQueue-0 class:<init>:132 - Открытие главной экранной формы
+21:30:30,573  INFO AWT-EventQueue-0 class:actionPerformed:42 - Закрытие экранной формы проектов
+21:35:30,515  INFO main class:<init>:132 - Открытие главной экранной формы
+21:35:34,205  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+21:35:34,266  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+21:36:13,895  INFO main class:<init>:132 - Открытие главной экранной формы
+21:36:19,751  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+21:36:19,795  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+21:36:23,022  INFO AWT-EventQueue-0 class:actionPerformed:61 - Открытие экранной формы клиентов
+21:36:23,053  INFO AWT-EventQueue-0 class:actionPerformed:64 - Закрытие главной экранной формы
+21:36:30,239  INFO AWT-EventQueue-0 class:<init>:132 - Открытие главной экранной формы
+21:36:30,316  INFO AWT-EventQueue-0 class:actionPerformed:87 - Закрытие экранной формы клиентов
+21:40:56,578  INFO main class:<init>:132 - Открытие главной экранной формы
+21:41:29,536  INFO main class:<init>:132 - Открытие главной экранной формы
+21:42:37,955  INFO main class:<init>:132 - Открытие главной экранной формы
+21:42:51,741  INFO main class:<init>:132 - Открытие главной экранной формы
+21:43:52,223  INFO main class:<init>:132 - Открытие главной экранной формы
+21:43:57,755  INFO AWT-EventQueue-0 class:actionPerformed:61 - Открытие экранной формы клиентов
+21:43:57,817  INFO AWT-EventQueue-0 class:actionPerformed:64 - Закрытие главной экранной формы
+21:44:03,429  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+21:44:03,479  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+21:44:08,950  INFO AWT-EventQueue-0 class:<init>:132 - Открытие главной экранной формы
+21:44:08,999  INFO AWT-EventQueue-0 class:actionPerformed:71 - Закрытие экранной формы проектов
+21:46:11,972  INFO main class:<init>:132 - Открытие главной экранной формы
+21:47:51,246  INFO main class:<init>:132 - Открытие главной экранной формы
+21:48:27,941  INFO main class:<init>:132 - Открытие главной экранной формы
+21:48:46,057  INFO main class:<init>:132 - Открытие главной экранной формы
+21:48:59,253  INFO main class:<init>:132 - Открытие главной экранной формы
+21:52:53,891  INFO main class:<init>:132 - Открытие главной экранной формы
+21:55:42,106  INFO main class:<init>:132 - Открытие главной экранной формы
+22:00:49,553  INFO main class:<init>:132 - Открытие главной экранной формы
+22:02:10,659  INFO main class:<init>:132 - Открытие главной экранной формы
+22:02:32,665  INFO main class:<init>:132 - Открытие главной экранной формы
+22:02:45,343  INFO main class:<init>:132 - Открытие главной экранной формы
+22:02:53,864  INFO main class:<init>:132 - Открытие главной экранной формы
+22:03:00,693  INFO main class:<init>:132 - Открытие главной экранной формы
+22:03:44,560  INFO main class:<init>:132 - Открытие главной экранной формы
+22:08:31,886  INFO main class:<init>:132 - Открытие главной экранной формы
+22:10:07,822  INFO main class:<init>:132 - Открытие главной экранной формы
+22:10:24,903  INFO main class:<init>:132 - Открытие главной экранной формы
+22:11:48,813  INFO main class:<init>:132 - Открытие главной экранной формы
+22:14:45,380  INFO main class:<init>:132 - Открытие главной экранной формы
+22:15:24,803  INFO main class:<init>:132 - Открытие главной экранной формы
+22:19:30,068  INFO main class:<init>:132 - Открытие главной экранной формы
+22:20:43,207  INFO main class:<init>:132 - Открытие главной экранной формы
+22:21:13,831  INFO main class:<init>:132 - Открытие главной экранной формы
+22:21:19,636  INFO AWT-EventQueue-0 class:actionPerformed:49 - Открытие экранной формы проектов
+22:21:19,728  INFO AWT-EventQueue-0 class:actionPerformed:53 - Закрытие главной экранной формы
+22:21:23,787  INFO AWT-EventQueue-0 class:actionPerformed:61 - Открытие экранной формы клиентов
+22:21:23,841  INFO AWT-EventQueue-0 class:actionPerformed:64 - Закрытие главной экранной формы
+23:09:38,221  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:09:38,233  INFO AWT-EventQueue-0 class:<init>:132 - Открытие главной экранной формы
+23:09:38,348  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:09:42,479  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие экранной формы
+23:09:42,480  INFO AWT-EventQueue-0 class:actionPerformed:52 - Открытие экранной формы сотрудников
+23:09:42,481  INFO AWT-EventQueue-0 class:<init>:132 - Открытие главной экранной формы
+23:09:44,136  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие экранной формы
+23:09:44,137  INFO AWT-EventQueue-0 class:actionPerformed:52 - Открытие экранной формы сотрудников
+23:09:44,138  INFO AWT-EventQueue-0 class:<init>:132 - Открытие главной экранной формы
+23:09:44,883  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие экранной формы
+23:09:44,883  INFO AWT-EventQueue-0 class:actionPerformed:52 - Открытие экранной формы сотрудников
+23:09:44,884  INFO AWT-EventQueue-0 class:<init>:132 - Открытие главной экранной формы
+23:15:16,086  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:15:16,106  INFO AWT-EventQueue-0 class:<init>:132 - Открытие главной экранной формы
+23:15:16,259  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:15:19,769  INFO AWT-EventQueue-0 class:actionPerformed:64 - Закрытие экранной формы
+23:15:19,770  INFO AWT-EventQueue-0 class:actionPerformed:65 - Открытие экранной формы проектов
+23:15:23,778  INFO AWT-EventQueue-0 class:actionPerformed:40 - Закрытие экранной формы
+23:15:23,778  INFO AWT-EventQueue-0 class:actionPerformed:41 - Открытие главной экранной формы
+20:46:55,839  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+20:46:55,860  INFO AWT-EventQueue-0 class:<init>:133 - Открытие главной экранной формы
+20:46:56,128  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+20:48:31,194  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+20:48:31,214  INFO AWT-EventQueue-0 class:<init>:133 - Открытие главной экранной формы
+20:48:31,493  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+20:49:17,624  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+20:49:17,647  INFO AWT-EventQueue-0 class:<init>:133 - Открытие главной экранной формы
+20:49:17,936  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+20:50:30,200  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+20:50:30,231  INFO AWT-EventQueue-0 class:<init>:133 - Открытие главной экранной формы
+20:50:30,632  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+20:50:51,723  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+20:50:51,753  INFO AWT-EventQueue-0 class:<init>:133 - Открытие главной экранной формы
+20:50:52,148  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+21:15:07,364  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+21:15:07,384  INFO AWT-EventQueue-0 class:<init>:139 - Открытие главной экранной формы
+21:15:07,652  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+21:53:43,925  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+21:53:43,957  INFO AWT-EventQueue-0 class:<init>:139 - Открытие главной экранной формы
+21:53:48,475  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+21:53:48,477  INFO AWT-EventQueue-0 class:<init>:139 - Открытие главной экранной формы
+21:55:15,233  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+21:55:15,256  INFO AWT-EventQueue-0 class:<init>:139 - Открытие главной экранной формы
+21:58:02,636  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+21:58:02,664  INFO AWT-EventQueue-0 class:<init>:139 - Открытие главной экранной формы
+22:12:25,126  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:12:25,150  INFO AWT-EventQueue-0 class:<init>:139 - Открытие главной экранной формы
+22:13:21,968  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:13:21,999  INFO AWT-EventQueue-0 class:<init>:139 - Открытие главной экранной формы
+22:13:58,134  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:13:58,153  INFO AWT-EventQueue-0 class:<init>:139 - Открытие главной экранной формы
+22:21:43,311  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:21:43,338  INFO AWT-EventQueue-0 class:<init>:139 - Открытие главной экранной формы
+22:23:35,786  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:23:35,805  INFO AWT-EventQueue-0 class:<init>:139 - Открытие главной экранной формы
+22:25:51,800  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:25:51,825  INFO AWT-EventQueue-0 class:<init>:139 - Открытие главной экранной формы
+22:27:35,168  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:27:35,197  INFO AWT-EventQueue-0 class:<init>:137 - Открытие главной экранной формы
+22:27:35,563  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+22:31:25,210  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:31:25,230  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+22:31:25,507  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+22:31:40,685  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:31:40,709  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+22:31:41,003  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+22:33:30,381  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:33:30,401  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+22:33:30,713  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+22:55:46,664  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:55:46,675  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+22:55:46,846  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:02:48,272  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:02:48,283  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:02:48,423  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:03:46,500  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:03:46,513  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:03:46,716  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:04:18,779  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:04:18,789  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:04:18,932  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:07:11,718  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:07:11,729  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:07:11,899  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:07:22,570  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:07:22,583  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:07:22,765  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:07:48,607  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:07:48,618  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:07:48,762  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:08:52,869  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:08:52,879  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:08:53,018  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:09:31,837  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:09:31,847  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:09:31,991  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:10:02,336  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:10:02,346  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:10:02,486  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:10:40,809  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:10:40,820  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:10:40,963  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:11:02,543  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:11:02,554  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:11:02,696  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:13:05,593  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:13:05,605  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:13:05,785  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:14:52,573  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:14:52,583  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:14:52,718  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:15:38,762  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:15:38,777  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:15:38,974  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:36:41,253  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:36:41,268  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:36:41,423  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:40:02,540  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:40:02,555  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:40:02,718  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:42:52,059  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:42:52,071  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:42:52,245  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:45:05,213  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:45:05,239  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:45:05,533  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:46:21,709  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:46:21,741  INFO AWT-EventQueue-0 class:<init>:138 - Открытие главной экранной формы
+23:46:22,063  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+21:49:21,766  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+21:49:21,795  INFO AWT-EventQueue-0 class:<init>:142 - Открытие главной экранной формы
+21:50:36,916  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+21:50:36,945  INFO AWT-EventQueue-0 class:<init>:142 - Открытие главной экранной формы
+21:50:42,057  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+21:52:35,503  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+21:52:35,523  INFO AWT-EventQueue-0 class:<init>:142 - Открытие главной экранной формы
+21:54:29,474  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+21:54:29,493  INFO AWT-EventQueue-0 class:<init>:142 - Открытие главной экранной формы
+21:56:07,355  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+21:56:07,380  INFO AWT-EventQueue-0 class:<init>:142 - Открытие главной экранной формы
+21:58:12,886  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+21:58:12,911  INFO AWT-EventQueue-0 class:<init>:142 - Открытие главной экранной формы
+21:58:17,317  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+21:58:45,566  INFO AWT-EventQueue-0 class:actionPerformed:64 - Закрытие экранной формы
+21:58:45,568  INFO AWT-EventQueue-0 class:actionPerformed:65 - Открытие экранной формы проектов
+21:58:47,769  INFO AWT-EventQueue-0 class:actionPerformed:52 - Закрытие экранной формы
+21:58:47,770  INFO AWT-EventQueue-0 class:actionPerformed:53 - Открытие экранной формы сотрудников
+21:58:47,772  INFO AWT-EventQueue-0 class:<init>:142 - Открытие главной экранной формы
+21:58:51,475  INFO AWT-EventQueue-0 class:actionPerformed:64 - Закрытие экранной формы
+21:58:51,476  INFO AWT-EventQueue-0 class:actionPerformed:65 - Открытие экранной формы проектов
+21:58:52,638  INFO AWT-EventQueue-0 class:actionPerformed:52 - Закрытие экранной формы
+21:58:52,638  INFO AWT-EventQueue-0 class:actionPerformed:53 - Открытие экранной формы сотрудников
+21:58:52,640  INFO AWT-EventQueue-0 class:<init>:142 - Открытие главной экранной формы
+22:30:05,523  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:30:05,547  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+22:30:10,204  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+22:35:27,934  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:35:27,960  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+22:35:32,560  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+22:38:17,759  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:38:17,771  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+22:38:20,191  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+22:43:19,222  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:43:19,235  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+22:43:21,528  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+22:48:43,809  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:48:43,833  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+22:48:46,608  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+22:51:02,138  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+22:51:02,150  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+22:51:04,632  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:44:41,473  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:44:41,487  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+23:44:43,909  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:55:06,452  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:55:06,463  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+23:55:08,349  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:56:39,208  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:56:39,225  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+23:56:41,550  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:59:01,933  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:59:01,946  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+23:59:04,350  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+23:59:26,955  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+23:59:26,969  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+23:59:29,461  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:00:00,822  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:00:00,835  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:00:03,261  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:00:22,661  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:00:22,674  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:00:25,039  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:05:12,268  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:05:12,279  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:05:14,203  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:13:07,779  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:13:07,793  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:13:10,317  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:21:58,018  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:21:58,031  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:22:00,526  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:22:25,681  INFO AWT-EventQueue-0 class:actionPerformed:64 - Закрытие экранной формы
+00:22:25,681  INFO AWT-EventQueue-0 class:actionPerformed:65 - Открытие экранной формы проектов
+00:22:29,349  INFO AWT-EventQueue-0 class:actionPerformed:52 - Закрытие экранной формы
+00:22:29,349  INFO AWT-EventQueue-0 class:actionPerformed:53 - Открытие экранной формы сотрудников
+00:22:29,350  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:33:42,706  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:33:42,721  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:33:45,260  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:46:12,796  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:46:12,810  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:46:15,187  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:48:38,449  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:48:38,461  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:48:40,534  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:49:41,208  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:49:41,221  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:49:43,758  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:52:16,711  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:52:16,720  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:52:18,751  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:54:14,705  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:54:14,719  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:54:17,341  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:54:55,836  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:54:55,847  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:54:58,117  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:55:30,587  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:55:30,600  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:55:33,178  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:55:59,046  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:55:59,056  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:56:01,050  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:58:43,414  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:58:43,427  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:58:45,823  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+00:59:55,450  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+00:59:55,460  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+00:59:57,496  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+01:02:26,224  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+01:02:26,238  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+01:02:28,700  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+01:11:21,420  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+01:11:21,433  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+01:11:23,888  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+01:18:35,197  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+01:18:35,210  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+01:18:37,707  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+01:20:23,048  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+01:20:23,060  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+01:20:25,605  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+01:23:45,115  INFO AWT-EventQueue-0 class:actionPerformed:45 - Открытие экранной формы сотрудников
+01:23:45,128  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+01:23:47,680  INFO AWT-EventQueue-0 class:actionPerformed:49 - Закрытие главной экранной формы
+02:06:19,519  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+02:08:48,458  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+02:08:48,599  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+02:08:56,829  INFO AWT-EventQueue-0 class:actionPerformed:79 - Закрытие экранной формы
+02:08:56,829  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы клиентов
+02:09:00,432  INFO AWT-EventQueue-0 class:actionPerformed:91 - Закрытие экранной формы
+02:09:00,432  INFO AWT-EventQueue-0 class:actionPerformed:92 - Открытие экранной формы задач
+02:09:07,329  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+02:09:09,781  INFO AWT-EventQueue-0 class:actionPerformed:74 - Закрытие экранной формы проектов
+02:09:10,028  INFO AWT-EventQueue-0 class:actionPerformed:43 - Закрытие экранной формы
+02:09:10,029  INFO AWT-EventQueue-0 class:actionPerformed:44 - Открытие главной экранной формы
+03:45:39,809  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+03:48:07,105  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+13:47:12,690  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+13:48:10,489  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+13:48:10,510  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+13:48:51,390  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+13:48:51,409  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+13:48:55,353  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+13:48:59,913  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+13:48:59,914  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+13:49:00,248  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+13:49:00,248  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+13:51:07,844  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+13:51:11,802  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+13:52:51,013  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+13:52:54,812  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+13:52:59,308  INFO AWT-EventQueue-0 class:actionPerformed:91 - Закрытие экранной формы
+13:52:59,309  INFO AWT-EventQueue-0 class:actionPerformed:92 - Открытие экранной формы задач
+14:00:24,052  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+14:00:24,074  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+14:00:27,942  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+14:05:02,554  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+14:05:02,578  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+14:05:07,038  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+14:44:19,975  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+14:44:19,996  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+14:44:24,703  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+14:45:28,354  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+14:45:28,378  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+14:45:32,815  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+14:46:47,976  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+14:46:52,436  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+14:48:48,689  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+14:48:53,139  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+18:11:32,971  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:11:32,981  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+18:11:35,610  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+18:17:12,250  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:17:12,261  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+18:17:14,353  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+18:19:49,767  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:19:49,782  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+18:19:52,392  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+18:22:32,082  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:22:32,095  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+18:22:34,647  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+18:24:06,376  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:24:06,387  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+18:24:08,445  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+18:24:15,486  INFO AWT-EventQueue-0 class:actionPerformed:79 - Закрытие экранной формы
+18:24:15,486  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы клиентов
+18:24:32,282  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+18:24:32,282  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+18:24:32,283  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+18:24:35,611  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+18:24:35,612  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+18:24:38,635  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+18:24:38,635  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+18:24:38,828  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+18:24:38,828  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+18:25:25,362  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+18:25:27,788  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+18:25:40,789  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+18:25:40,789  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+18:25:40,795  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+18:56:16,098  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:56:16,121  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+18:56:20,227  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+16:23:16,953  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+16:23:16,994  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+16:23:19,697  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+16:24:08,923  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+16:24:08,934  INFO AWT-EventQueue-0 class:<init>:154 - Открытие главной экранной формы
+16:24:10,970  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+16:38:11,015  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+16:38:11,026  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+16:38:13,101  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+16:47:24,124  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+16:47:24,134  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+16:47:26,174  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+16:48:19,891  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+16:48:19,906  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+16:48:22,538  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+16:49:13,500  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+16:49:13,513  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+16:49:15,564  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+16:50:37,050  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+16:50:37,064  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+16:50:39,488  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+17:01:44,644  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+17:01:44,656  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+17:01:46,745  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:01:39,214  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:01:39,245  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:02:56,451  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:02:56,474  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:03:00,673  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:04:12,770  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+22:04:12,771  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+22:04:16,668  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+22:04:16,669  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+22:04:16,670  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:24:09,270  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:24:09,301  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:24:13,910  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:25:18,952  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:25:18,972  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:25:23,085  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:25:58,136  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+22:25:58,137  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+22:26:00,484  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+22:26:00,485  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+22:26:00,486  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:37:14,033  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:37:14,057  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:37:18,171  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:44:25,555  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:44:25,576  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:44:29,591  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:46:36,490  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:46:36,522  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:46:41,882  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:47:52,674  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:47:52,703  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:47:57,865  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+23:22:09,044  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+23:22:09,045  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+23:22:11,589  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+23:22:11,590  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+23:22:11,592  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+23:24:43,861  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+23:24:43,876  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+23:24:46,845  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+23:26:16,061  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+23:26:16,062  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+23:26:20,512  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+23:26:20,512  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+23:26:20,513  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+21:06:54,435  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+21:06:54,503  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+21:06:58,245  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:03:59,384  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:03:59,398  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:04:02,038  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:13:09,408  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:13:09,422  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:13:12,081  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:22:38,388  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:22:38,402  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:22:41,027  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:23:58,511  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:23:58,525  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:24:01,217  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:29:45,998  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:29:46,011  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:29:48,585  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:37:32,146  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:37:32,160  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:37:34,737  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:37:45,458  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:37:45,471  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:37:48,236  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:42:46,372  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:42:46,386  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:42:49,098  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+18:53:28,626  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:53:28,700  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+18:53:32,283  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+18:56:26,833  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:56:26,848  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+18:56:29,803  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+19:11:40,886  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+19:11:40,904  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+19:11:44,249  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+19:13:11,744  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+19:13:11,761  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+19:13:14,923  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+19:34:48,773  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+19:34:48,786  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+19:34:51,075  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+19:39:55,823  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+19:39:55,838  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+19:39:58,733  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+19:47:26,858  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+19:47:26,873  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+19:47:29,524  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+19:48:12,318  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+19:48:12,333  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+19:48:15,087  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+19:57:17,547  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+19:57:17,560  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+19:57:20,107  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+20:24:59,521  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+20:24:59,531  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+20:25:01,909  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+20:26:19,931  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+20:26:19,944  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+20:26:22,583  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+20:27:59,772  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+20:27:59,785  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+20:28:02,318  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+08:25:13,993  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+08:25:14,017  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+08:25:16,511  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+08:26:34,952  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+08:26:34,963  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+08:26:37,179  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+08:28:35,308  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+08:28:35,321  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+08:28:37,871  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+08:31:09,283  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+08:31:09,300  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+08:31:12,381  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+08:34:46,880  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+08:34:46,923  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+08:34:49,515  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+08:35:34,750  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+08:35:34,761  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+08:35:37,008  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+08:40:12,087  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+08:40:12,100  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+08:40:14,670  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+09:13:42,152  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+09:13:45,116  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+12:53:38,674  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+12:53:40,827  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+12:56:08,145  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+12:56:10,158  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+13:05:42,429  INFO AWT-EventQueue-0 class:actionPerformed:79 - Закрытие экранной формы
+13:05:42,430  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы клиентов
+13:06:08,533  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+13:06:11,107  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+13:28:47,001  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+13:28:48,970  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+13:32:30,615  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+13:32:33,079  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+13:45:54,081  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+13:45:56,652  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+13:52:44,816  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+13:52:47,364  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+13:54:17,822  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+13:54:20,322  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+13:54:47,082  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+13:54:49,061  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+13:55:13,502  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+13:55:15,512  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+13:55:23,931  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+13:55:25,944  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+14:02:45,790  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+14:02:48,357  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+14:03:33,167  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+14:03:35,166  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+14:31:15,603  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+14:31:19,112  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+14:35:58,216  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+14:36:02,379  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+14:38:30,566  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+14:38:32,566  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+14:39:25,294  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+14:39:27,689  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+14:44:02,194  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+14:44:04,190  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+14:46:40,671  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+14:46:43,133  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+14:50:29,364  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+14:50:33,207  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+14:51:25,595  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+14:51:25,608  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+14:51:28,220  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+15:11:20,838  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+15:11:23,332  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+15:12:11,889  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+15:12:14,369  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+15:14:04,259  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+15:14:07,022  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+15:15:05,763  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+15:15:07,739  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+15:15:54,904  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+15:15:57,327  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+15:17:34,466  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+15:17:36,893  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+15:34:29,889  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+15:34:29,903  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+15:34:32,434  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+15:41:11,257  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+15:41:11,272  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+15:41:13,940  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+15:41:53,099  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+15:41:53,115  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+15:41:55,587  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+15:45:42,176  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+15:45:42,190  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+15:45:44,659  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+16:08:17,651  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+16:08:19,684  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+16:11:35,091  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+16:11:37,479  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+16:18:51,356  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+16:18:53,719  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+16:20:43,338  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+16:20:45,636  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+16:27:48,576  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+16:27:51,081  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+18:01:47,948  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:01:47,984  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+18:01:54,168  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+18:04:55,262  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:04:55,294  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+18:05:01,413  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+18:14:26,340  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:14:26,368  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+18:14:31,854  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+18:25:18,371  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:25:18,397  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+18:25:23,336  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+18:37:15,438  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:37:15,458  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+18:37:19,479  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+18:48:17,729  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:48:17,750  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+18:48:21,931  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+18:50:53,670  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:50:53,695  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+18:50:57,648  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+19:01:34,165  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+19:01:38,671  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+19:03:48,939  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+19:03:54,177  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+19:06:10,412  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+19:06:14,554  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+19:11:20,556  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+19:11:25,618  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+19:14:49,028  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+19:14:53,267  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+19:22:26,655  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+19:22:30,796  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+22:36:48,459  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+22:36:51,511  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+22:39:22,634  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+22:39:22,649  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+22:39:25,308  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+22:39:31,359  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+22:39:31,360  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+22:49:40,478  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+22:49:42,572  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+23:02:34,993  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+23:02:37,507  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+23:03:04,481  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+23:03:07,121  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+23:03:28,090  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+23:03:30,822  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+23:04:05,732  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+23:04:08,677  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+23:04:43,008  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+23:04:46,013  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+23:07:31,623  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+23:07:34,074  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+23:08:01,769  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+23:08:04,285  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+23:08:19,353  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+23:08:22,386  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+23:08:43,479  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+23:08:46,496  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+23:13:50,966  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+23:13:53,635  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+23:16:48,734  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+23:16:51,200  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+23:17:08,788  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+23:17:11,207  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+23:39:52,243  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+23:39:54,597  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+23:41:47,175  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+23:41:49,738  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+23:42:29,033  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+23:42:29,033  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+23:42:29,040  INFO AWT-EventQueue-0 class:<init>:155 - Открытие главной экранной формы
+23:43:20,381  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+23:43:20,382  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+23:43:28,833  INFO AWT-EventQueue-0 class:actionPerformed:91 - Закрытие экранной формы
+23:43:28,833  INFO AWT-EventQueue-0 class:actionPerformed:92 - Открытие экранной формы задач
+23:45:53,434  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+23:45:53,434  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+01:03:58,217  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:04:00,032  INFO AWT-EventQueue-0 class:<init>:194 - Открытие главной экранной формы
+01:04:00,451  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:05:21,630  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:05:23,468  INFO AWT-EventQueue-0 class:<init>:194 - Открытие главной экранной формы
+01:05:23,876  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:07:14,519  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:07:16,436  INFO AWT-EventQueue-0 class:<init>:194 - Открытие главной экранной формы
+01:07:16,860  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:07:37,882  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:07:39,695  INFO AWT-EventQueue-0 class:<init>:194 - Открытие главной экранной формы
+01:07:40,107  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:10:59,098  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:11:01,325  INFO AWT-EventQueue-0 class:<init>:198 - Открытие главной экранной формы
+01:11:01,816  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:12:12,639  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:12:14,943  INFO AWT-EventQueue-0 class:<init>:199 - Открытие главной экранной формы
+01:12:15,370  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:12:49,448  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:12:51,689  INFO AWT-EventQueue-0 class:<init>:199 - Открытие главной экранной формы
+01:12:52,202  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:13:28,747  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:13:30,981  INFO AWT-EventQueue-0 class:<init>:199 - Открытие главной экранной формы
+01:13:31,399  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:13:57,929  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:14:00,191  INFO AWT-EventQueue-0 class:<init>:199 - Открытие главной экранной формы
+01:14:00,658  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:14:46,885  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:14:49,179  INFO AWT-EventQueue-0 class:<init>:199 - Открытие главной экранной формы
+01:14:49,597  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:16:11,968  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:16:14,256  INFO AWT-EventQueue-0 class:<init>:200 - Открытие главной экранной формы
+01:16:14,724  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:16:53,867  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:16:55,650  INFO AWT-EventQueue-0 class:<init>:200 - Открытие главной экранной формы
+01:16:56,073  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:17:56,189  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:17:58,398  INFO AWT-EventQueue-0 class:<init>:200 - Открытие главной экранной формы
+01:17:58,885  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:18:19,418  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:18:21,881  INFO AWT-EventQueue-0 class:<init>:200 - Открытие главной экранной формы
+01:18:22,464  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:22:52,437  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:22:54,450  INFO AWT-EventQueue-0 class:<init>:210 - Открытие главной экранной формы
+01:22:54,860  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:23:20,742  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:23:22,537  INFO AWT-EventQueue-0 class:<init>:210 - Открытие главной экранной формы
+01:23:22,955  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:23:48,855  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:23:50,639  INFO AWT-EventQueue-0 class:<init>:210 - Открытие главной экранной формы
+01:23:51,050  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:25:48,310  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:25:50,138  INFO AWT-EventQueue-0 class:<init>:211 - Открытие главной экранной формы
+01:25:50,550  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:27:12,742  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:27:15,083  INFO AWT-EventQueue-0 class:<init>:215 - Открытие главной экранной формы
+01:27:15,560  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:29:22,987  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:29:25,322  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+01:29:25,787  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:30:20,880  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:30:23,129  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+01:30:23,580  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:31:21,657  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:31:23,875  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+01:31:24,354  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:35:45,655  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:35:47,983  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+01:35:48,446  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:36:19,020  INFO AWT-EventQueue-0 class:actionPerformed:91 - Закрытие экранной формы
+01:36:19,021  INFO AWT-EventQueue-0 class:actionPerformed:92 - Открытие экранной формы задач
+01:37:07,758  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+01:37:07,759  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+01:37:07,908  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+01:38:11,786  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:38:13,729  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+01:38:14,150  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:39:17,723  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+01:39:17,724  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+01:58:53,196  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+01:58:55,495  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+01:58:56,008  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+01:59:23,854  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+01:59:26,488  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+02:03:51,419  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+02:03:54,135  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+02:05:12,131  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+02:05:14,818  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+02:09:39,530  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+02:09:41,910  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+02:09:42,420  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+02:39:55,198  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+02:39:57,816  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+02:43:33,314  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+02:43:35,524  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+02:43:35,961  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+02:59:08,901  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+02:59:11,364  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+03:01:47,746  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+03:01:50,336  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+03:02:16,623  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+03:02:18,474  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+03:02:18,898  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+03:02:26,021  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+03:02:28,643  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+03:05:34,410  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+03:05:37,071  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+03:08:42,159  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+03:08:44,917  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+03:09:05,222  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+03:09:07,479  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+03:32:04,993  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+03:32:08,183  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+03:33:26,394  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+03:33:28,668  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+03:34:29,447  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+03:34:31,561  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+11:37:25,256  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+11:37:29,776  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+11:42:24,507  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+11:42:28,875  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+12:46:37,246  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+12:46:41,578  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+12:47:58,837  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+12:47:58,838  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+12:47:59,113  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+12:48:03,393  INFO AWT-EventQueue-0 class:actionPerformed:79 - Закрытие экранной формы
+12:48:03,393  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы клиентов
+12:48:30,244  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+12:48:30,244  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+12:48:30,472  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+12:52:01,586  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+12:52:05,490  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+12:52:36,078  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+12:52:36,079  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+12:52:36,395  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+12:52:37,568  INFO AWT-EventQueue-0 class:actionPerformed:43 - Закрытие экранной формы
+12:52:37,569  INFO AWT-EventQueue-0 class:actionPerformed:44 - Открытие главной экранной формы
+12:52:40,999  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+12:52:41,290  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+12:52:41,803  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+12:56:03,833  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+12:56:07,808  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+13:01:23,960  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+13:01:28,332  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+13:01:29,242  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+13:03:02,314  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+13:03:02,315  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+13:05:25,022  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+13:05:29,245  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+13:07:23,103  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+13:07:27,919  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+13:12:35,262  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+13:12:38,605  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+13:12:39,458  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+13:12:42,005  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+13:12:42,007  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+13:14:10,818  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+13:14:16,248  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+13:14:46,489  INFO AWT-EventQueue-0 class:actionPerformed:79 - Закрытие экранной формы
+13:14:46,490  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы клиентов
+13:15:24,876  INFO AWT-EventQueue-0 class:actionPerformed:91 - Закрытие экранной формы
+13:15:24,877  INFO AWT-EventQueue-0 class:actionPerformed:92 - Открытие экранной формы задач
+13:22:23,832  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+13:22:28,663  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+13:26:50,918  INFO AWT-EventQueue-0 class:actionPerformed:58 - Открытие экранной формы проектов
+13:26:55,175  INFO AWT-EventQueue-0 class:actionPerformed:61 - Закрытие главной экранной формы
+13:28:06,305  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+13:28:10,556  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+15:23:32,344  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+15:23:34,749  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+15:23:35,276  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+15:27:16,980  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+15:27:16,980  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+15:30:17,630  INFO AWT-EventQueue-0 class:actionPerformed:79 - Закрытие экранной формы
+15:30:17,630  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы клиентов
+15:31:04,411  INFO AWT-EventQueue-0 class:actionPerformed:91 - Закрытие экранной формы
+15:31:04,411  INFO AWT-EventQueue-0 class:actionPerformed:92 - Открытие экранной формы задач
+15:32:44,818  INFO AWT-EventQueue-0 class:actionPerformed:43 - Закрытие экранной формы
+15:32:44,818  INFO AWT-EventQueue-0 class:actionPerformed:44 - Открытие главной экранной формы
+16:43:39,867  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+16:43:42,120  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+16:43:42,514  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+16:44:06,160  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+16:44:06,161  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+17:07:08,544  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+17:07:10,991  INFO AWT-EventQueue-0 class:<init>:212 - Открытие главной экранной формы
+17:07:11,398  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+11:45:19,113  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+11:45:21,476  INFO AWT-EventQueue-0 class:<init>:215 - Открытие главной экранной формы
+11:45:21,964  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+11:49:57,735  INFO AWT-EventQueue-0 class:actionPerformed:69 - Открытие экранной формы клиентов
+11:50:01,679  INFO AWT-EventQueue-0 class:actionPerformed:72 - Закрытие главной экранной формы
+11:52:50,625  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+11:52:50,627  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+11:55:41,125  INFO AWT-EventQueue-0 class:actionPerformed:79 - Закрытие экранной формы
+11:55:41,125  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы клиентов
+11:56:13,530  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+11:56:13,531  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+11:57:47,196  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+11:57:47,197  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+11:57:47,445  INFO AWT-EventQueue-0 class:<init>:215 - Открытие главной экранной формы
+11:57:49,539  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+11:57:49,540  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+11:58:15,566  INFO AWT-EventQueue-0 class:actionPerformed:91 - Закрытие экранной формы
+11:58:15,567  INFO AWT-EventQueue-0 class:actionPerformed:92 - Открытие экранной формы задач
+11:58:36,036  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+11:58:36,037  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+11:58:36,218  INFO AWT-EventQueue-0 class:<init>:215 - Открытие главной экранной формы
+18:49:15,033  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:49:19,264  INFO AWT-EventQueue-0 class:<init>:215 - Открытие главной экранной формы
+18:49:20,112  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+18:52:02,249  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+18:52:02,252  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+18:53:13,617  INFO AWT-EventQueue-0 class:actionPerformed:79 - Закрытие экранной формы
+18:53:13,617  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы клиентов
+18:55:14,279  INFO AWT-EventQueue-0 class:actionPerformed:91 - Закрытие экранной формы
+18:55:14,279  INFO AWT-EventQueue-0 class:actionPerformed:92 - Открытие экранной формы задач
+18:56:24,143  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+18:56:28,063  INFO AWT-EventQueue-0 class:<init>:215 - Открытие главной экранной формы
+18:56:28,913  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+14:11:31,622  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+14:15:30,864  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+14:15:34,839  INFO AWT-EventQueue-0 class:<init>:215 - Открытие главной экранной формы
+14:15:35,874  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+14:16:05,588  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+14:16:05,589  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+14:17:10,904  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+14:17:10,905  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+14:17:11,270  INFO AWT-EventQueue-0 class:<init>:215 - Открытие главной экранной формы
+14:17:14,292  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+14:17:14,293  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+14:17:45,365  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+14:17:45,366  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+14:17:45,653  INFO AWT-EventQueue-0 class:<init>:215 - Открытие главной экранной формы
+14:17:48,008  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+14:17:48,009  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+14:18:09,015  INFO AWT-EventQueue-0 class:actionPerformed:79 - Закрытие экранной формы
+14:18:09,016  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы клиентов
+14:18:21,918  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+14:18:21,919  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+14:18:23,519  INFO AWT-EventQueue-0 class:actionPerformed:79 - Закрытие экранной формы
+14:18:23,520  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы клиентов
+14:18:29,063  INFO AWT-EventQueue-0 class:actionPerformed:91 - Закрытие экранной формы
+14:18:29,064  INFO AWT-EventQueue-0 class:actionPerformed:92 - Открытие экранной формы задач
+14:18:36,448  INFO AWT-EventQueue-0 class:actionPerformed:79 - Закрытие экранной формы
+14:18:36,449  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы клиентов
+14:18:37,907  INFO AWT-EventQueue-0 class:actionPerformed:91 - Закрытие экранной формы
+14:18:37,908  INFO AWT-EventQueue-0 class:actionPerformed:92 - Открытие экранной формы задач
+14:18:42,443  INFO AWT-EventQueue-0 class:actionPerformed:43 - Закрытие экранной формы
+14:18:42,444  INFO AWT-EventQueue-0 class:actionPerformed:44 - Открытие главной экранной формы
+14:42:59,320  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+14:43:04,526  INFO AWT-EventQueue-0 class:<init>:215 - Открытие главной экранной формы
+14:43:05,584  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+14:44:13,123  INFO AWT-EventQueue-0 class:actionPerformed:43 - Закрытие экранной формы
+14:44:13,124  INFO AWT-EventQueue-0 class:actionPerformed:44 - Открытие главной экранной формы
+14:44:14,359  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+14:44:14,715  INFO AWT-EventQueue-0 class:<init>:215 - Открытие главной экранной формы
+14:44:15,314  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+14:50:01,203  INFO AWT-EventQueue-0 class:actionPerformed:47 - Открытие экранной формы сотрудников
+14:50:05,005  INFO AWT-EventQueue-0 class:<init>:215 - Открытие главной экранной формы
+14:50:06,021  INFO AWT-EventQueue-0 class:actionPerformed:51 - Закрытие главной экранной формы
+14:50:38,866  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+14:50:38,869  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+14:50:41,514  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+14:50:41,515  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+14:50:41,872  INFO AWT-EventQueue-0 class:<init>:215 - Открытие главной экранной формы
+14:50:50,061  INFO AWT-EventQueue-0 class:actionPerformed:67 - Закрытие экранной формы
+14:50:50,061  INFO AWT-EventQueue-0 class:actionPerformed:68 - Открытие экранной формы проектов
+14:50:52,221  INFO AWT-EventQueue-0 class:actionPerformed:55 - Закрытие экранной формы
+14:50:52,223  INFO AWT-EventQueue-0 class:actionPerformed:56 - Открытие экранной формы сотрудников
+14:50:52,519  INFO AWT-EventQueue-0 class:<init>:215 - Открытие главной экранной формы
+15:01:12,502  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы задач
+15:01:16,881  INFO AWT-EventQueue-0 class:actionPerformed:83 - Закрытие главной экранной формы
+15:02:23,830  INFO AWT-EventQueue-0 class:actionPerformed:79 - Закрытие экранной формы
+15:02:23,832  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы клиентов
+15:02:26,075  INFO AWT-EventQueue-0 class:actionPerformed:91 - Закрытие экранной формы
+15:02:26,076  INFO AWT-EventQueue-0 class:actionPerformed:92 - Открытие экранной формы задач
+15:02:32,529  INFO AWT-EventQueue-0 class:actionPerformed:79 - Закрытие экранной формы
+15:02:32,530  INFO AWT-EventQueue-0 class:actionPerformed:80 - Открытие экранной формы клиентов
+15:02:34,445  INFO AWT-EventQueue-0 class:actionPerformed:91 - Закрытие экранной формы
+15:02:34,446  INFO AWT-EventQueue-0 class:actionPerformed:92 - Открытие экранной формы задач
